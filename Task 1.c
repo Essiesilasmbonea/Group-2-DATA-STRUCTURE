@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-void swap(int *,int  *); //prototype
+void swap(int *,int  *); //prototype 
 
 void main()
 
